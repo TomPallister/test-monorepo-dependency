@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "lib/lib-a": "0.1.2",
+    "lib/lib-b": "0.1.2"
+  }
+}
