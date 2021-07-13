@@ -1,5 +1,12 @@
 
 
+<a name="api/0.0.1"></a>
+## [api/0.0.1](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/api/0.0.1) (2021-7-13)
+
+### Other
+
+* init round 2 ([e348d82](https://www.github.com/TomPallister/test-monorepo-dependency/commit/e348d8253136820ae5bc8bdf248e39fa516b090a))
+
 <a name="api/0.1.146"></a>
 ## [api/0.1.146](https://www.github.com/TomPallister/test-monorepo/releases/tag/api/0.1.146) (2021-7-13)
 

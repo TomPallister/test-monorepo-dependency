@@ -1,5 +1,17 @@
 
 
+<a name="lib/lib-b/0.0.1"></a>
+## [lib/lib-b/0.0.1](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/lib/lib-b/0.0.1) (2021-7-13)
+
+### Bug Fixes
+
+* Here's a commit i made! order: 4 ([9a7e3ed](https://www.github.com/TomPallister/test-monorepo-dependency/commit/9a7e3ed24724f001969eb8e4ef9313b1c810b5e0))
+
+### Other
+
+* init round 2 ([e348d82](https://www.github.com/TomPallister/test-monorepo-dependency/commit/e348d8253136820ae5bc8bdf248e39fa516b090a))
+* Merge branch 'master' of github.com:TomPallister/test-monorepo-dependency into master ([15b4ec4](https://www.github.com/TomPallister/test-monorepo-dependency/commit/15b4ec4e13a45e409c5dd79b809c8cee4731d9ec))
+
 <a name="lib/lib-b/0.1.145"></a>
 ## [lib/lib-b/0.1.145](https://www.github.com/TomPallister/test-monorepo/releases/tag/lib/lib-b/0.1.145) (2021-7-13)
 

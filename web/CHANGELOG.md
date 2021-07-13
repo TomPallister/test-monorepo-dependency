@@ -1,5 +1,12 @@
 
 
+<a name="web/0.0.1"></a>
+## [web/0.0.1](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/web/0.0.1) (2021-7-13)
+
+### Other
+
+* init round 2 ([e348d82](https://www.github.com/TomPallister/test-monorepo-dependency/commit/e348d8253136820ae5bc8bdf248e39fa516b090a))
+
 <a name="web/0.1.146"></a>
 ## [web/0.1.146](https://www.github.com/TomPallister/test-monorepo/releases/tag/web/0.1.146) (2021-7-13)
 
