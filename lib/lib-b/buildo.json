@@ -1,5 +1,11 @@
 {
-  "dependencies": {
-    "lib/lib-a": "0.1.2"
-  }
+  "scripts": {
+    "build:win-x64": "../../scripts/build.ps1",
+    "version:win-x64": "../../scripts/version.ps1",
+    "build:linux-x64": "../../scripts/build.sh",
+    "version:linux-x64": "../../scripts/version.sh",
+    "build:osx-x64": "../../scripts/build.sh",
+    "version:osx-x64": "../../scripts/version.sh"
+  },
+  "dependencies": ["lib/lib-a"]
 }
