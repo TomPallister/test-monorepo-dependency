@@ -1,5 +1,18 @@
 
 
+<a name="lib/lib-b/0.0.4"></a>
+## [lib/lib-b/0.0.4](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/lib/lib-b/0.0.4) (2022-2-15)
+
+### Bug Fixes
+
+* Here's a commit i made! order: 4 ([5d72ace](https://www.github.com/TomPallister/test-monorepo-dependency/commit/5d72ace21ec2bac142d085a199b3787f119e5a98))
+* Here's a commit i made! order: 4 ([b3dd1d2](https://www.github.com/TomPallister/test-monorepo-dependency/commit/b3dd1d266f16552da98cccdef54fecafafa12e52))
+* Here's a commit i made! order: 4 ([1067a6c](https://www.github.com/TomPallister/test-monorepo-dependency/commit/1067a6c48d98f683d565c489b8fb6a28852449b2))
+
+### Other
+
+* Merge branch 'master' of github.com:TomPallister/test-monorepo-dependency ([06be4a9](https://www.github.com/TomPallister/test-monorepo-dependency/commit/06be4a9cb1b6ef18c3a8db40c8c38ee2c6fa774b))
+
 <a name="lib/lib-b/0.0.3"></a>
 ## [lib/lib-b/0.0.3](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/lib/lib-b/0.0.3) (2021-7-13)
 

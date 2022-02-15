@@ -1,5 +1,12 @@
 
 
+<a name="web/0.0.2"></a>
+## [web/0.0.2](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/web/0.0.2) (2022-2-15)
+
+### Other
+
+* make web depend on api ([604f37c](https://www.github.com/TomPallister/test-monorepo-dependency/commit/604f37c89697384351bfe68dee7437bd5d77fdda))
+
 <a name="web/0.0.1"></a>
 ## [web/0.0.1](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/web/0.0.1) (2021-7-13)
 
