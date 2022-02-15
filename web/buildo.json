@@ -7,5 +7,5 @@
     "build:osx-x64": "../scripts/build.sh",
     "publish:osx-x64": "../scripts/publish.sh"
   },
-  "dependencies": ["lib/lib-b"]
+  "dependencies": ["api"]
 }
