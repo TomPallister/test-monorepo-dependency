@@ -1,5 +1,14 @@
 
 
+<a name="lib/lib-b/0.0.24"></a>
+## [lib/lib-b/0.0.24](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/lib/lib-b/0.0.24) (2023-4-25)
+
+### Bug Fixes
+
+* Here's a commit i made! order: 4 ([6b7b743](https://www.github.com/TomPallister/test-monorepo-dependency/commit/6b7b7432b74e84e1e7f7196c188b9e5f2128e06b))
+* Here's a commit i made! order: 4 ([6ccd8bd](https://www.github.com/TomPallister/test-monorepo-dependency/commit/6ccd8bded3e279592b9e9b215d41607c44f1fc61))
+* Here's a commit i made! order: 4 ([0d70648](https://www.github.com/TomPallister/test-monorepo-dependency/commit/0d70648c142f86270837ac40def25b2489031202))
+
 <a name="lib/lib-b/0.0.23"></a>
 ## [lib/lib-b/0.0.23](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/lib/lib-b/0.0.23) (2023-4-25)
 
