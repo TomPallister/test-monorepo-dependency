@@ -1,5 +1,16 @@
 
 
+<a name="lib/lib-b/0.0.35"></a>
+## [lib/lib-b/0.0.35](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/lib/lib-b/0.0.35) (2023-4-28)
+
+### Bug Fixes
+
+* Here's a commit i made! order: 4 ([d525db7](https://www.github.com/TomPallister/test-monorepo-dependency/commit/d525db74ab069e6ce32552323211a91466693dda))
+* Here's a commit i made! order: 4 ([0b92c28](https://www.github.com/TomPallister/test-monorepo-dependency/commit/0b92c28e3ea0cc618ea54423d78d9fa31e7515a1))
+* Here's a commit i made! order: 4 ([ea3b59a](https://www.github.com/TomPallister/test-monorepo-dependency/commit/ea3b59ac3d4df256797fecd297adc9d9d819cedb))
+* Here's a commit i made! order: 4 ([f15bfc8](https://www.github.com/TomPallister/test-monorepo-dependency/commit/f15bfc8c5dfb77a0e61eecd400dd8db067801a88))
+* Here's a commit i made! order: 4 ([b9e7e74](https://www.github.com/TomPallister/test-monorepo-dependency/commit/b9e7e745944604df24975b5cbdd610a3ba34d853))
+
 <a name="lib/lib-b/0.0.34"></a>
 ## [lib/lib-b/0.0.34](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/lib/lib-b/0.0.34) (2023-4-27)
 
