@@ -1,5 +1,12 @@
 
 
+<a name="lib/lib-b/0.0.88"></a>
+## [lib/lib-b/0.0.88](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/lib/lib-b/0.0.88) (2023-5-1)
+
+### Bug Fixes
+
+* Here's a commit i made! order: 4 ([50b8d12](https://www.github.com/TomPallister/test-monorepo-dependency/commit/50b8d125c2ec253a8ea53ad4375708c66cfeeb49))
+
 <a name="lib/lib-b/0.0.87"></a>
 ## [lib/lib-b/0.0.87](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/lib/lib-b/0.0.87) (2023-5-1)
 

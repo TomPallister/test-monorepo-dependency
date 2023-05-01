@@ -1,5 +1,12 @@
 
 
+<a name="web/0.0.52"></a>
+## [web/0.0.52](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/web/0.0.52) (2023-5-1)
+
+### Other
+
+* Note: Version bump only for web ([50b8d12](https://www.github.com/TomPallister/test-monorepo-dependency/commit/50b8d125c2ec253a8ea53ad4375708c66cfeeb49))
+
 <a name="web/0.0.51"></a>
 ## [web/0.0.51](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/web/0.0.51) (2023-5-1)
 
