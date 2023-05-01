@@ -1,5 +1,12 @@
 
 
+<a name="lib/lib-a/0.0.3"></a>
+## [lib/lib-a/0.0.3](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/lib/lib-a/0.0.3) (2023-5-1)
+
+### Other
+
+* updated init commit ([4c40d4d](https://www.github.com/TomPallister/test-monorepo-dependency/commit/4c40d4dbbc70242caa6949782b6b1ce994a2b5d1))
+
 <a name="lib/lib-a/0.0.2"></a>
 ## [lib/lib-a/0.0.2](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/lib/lib-a/0.0.2) (2023-5-1)
 

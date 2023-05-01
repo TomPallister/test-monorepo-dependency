@@ -1,5 +1,12 @@
 
 
+<a name="web/0.0.48"></a>
+## [web/0.0.48](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/web/0.0.48) (2023-5-1)
+
+### Other
+
+* updated init commit ([4c40d4d](https://www.github.com/TomPallister/test-monorepo-dependency/commit/4c40d4dbbc70242caa6949782b6b1ce994a2b5d1))
+
 <a name="web/0.0.47"></a>
 ## [web/0.0.47](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/web/0.0.47) (2023-5-1)
 

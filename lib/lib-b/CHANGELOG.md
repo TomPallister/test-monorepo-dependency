@@ -1,5 +1,19 @@
 
 
+<a name="lib/lib-b/0.0.80"></a>
+## [lib/lib-b/0.0.80](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/lib/lib-b/0.0.80) (2023-5-1)
+
+### Bug Fixes
+
+* Here's a commit i made! order: 4 ([083b1e7](https://www.github.com/TomPallister/test-monorepo-dependency/commit/083b1e78208bcca6613e285c1359931de1ac9154))
+* Here's a commit i made! order: 4 ([f37b82e](https://www.github.com/TomPallister/test-monorepo-dependency/commit/f37b82e30e8028a8f160677cf06fa740f9f47314))
+* Here's a commit i made! order: 4 ([e404b99](https://www.github.com/TomPallister/test-monorepo-dependency/commit/e404b99d4183d4b73e00ae33e97e99a29512098d))
+* Here's a commit i made! order: 4 ([6fd2adf](https://www.github.com/TomPallister/test-monorepo-dependency/commit/6fd2adf8cfe8d597b00a123fb74d4fa395d7c3c4))
+
+### Other
+
+* updated init commit ([4c40d4d](https://www.github.com/TomPallister/test-monorepo-dependency/commit/4c40d4dbbc70242caa6949782b6b1ce994a2b5d1))
+
 <a name="lib/lib-b/0.0.79"></a>
 ## [lib/lib-b/0.0.79](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/lib/lib-b/0.0.79) (2023-5-1)
 
