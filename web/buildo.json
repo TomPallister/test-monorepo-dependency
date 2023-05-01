@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "build:win": "../scripts/build.ps1",
-    "publish:win": "../scripts/publish.ps1",
+    "build:windows": "../scripts/build.ps1",
+    "publish:windows": "../scripts/publish.ps1",
     "build:linux": "../scripts/build.sh",
     "publish:linux": "../scripts/publish.sh",
     "build:osx": "../scripts/build.sh",
