@@ -1,5 +1,12 @@
 
 
+<a name="api/0.0.48"></a>
+## [api/0.0.48](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/api/0.0.48) (2023-5-1)
+
+### Other
+
+* Note: Version bump only for api ([dd7d1d9](https://www.github.com/TomPallister/test-monorepo-dependency/commit/dd7d1d9cf4228427f1084f36137dbfeada0fccfb))
+
 <a name="api/0.0.47"></a>
 ## [api/0.0.47](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/api/0.0.47) (2023-5-1)
 
