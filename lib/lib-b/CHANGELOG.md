@@ -1,5 +1,16 @@
 
 
+<a name="lib/lib-b/0.0.72"></a>
+## [lib/lib-b/0.0.72](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/lib/lib-b/0.0.72) (2023-5-1)
+
+### Bug Fixes
+
+* Here's a commit i made! order: 4 ([c5016dd](https://www.github.com/TomPallister/test-monorepo-dependency/commit/c5016dd16851f58502d0847bed3107266989827d))
+
+### Other
+
+* removed x-64 from scripts ([6e075be](https://www.github.com/TomPallister/test-monorepo-dependency/commit/6e075be0e9a1f74f61f4c35395e1136de2219302))
+
 <a name="lib/lib-b/0.0.71"></a>
 ## [lib/lib-b/0.0.71](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/lib/lib-b/0.0.71) (2023-4-29)
 

@@ -1,5 +1,12 @@
 
 
+<a name="lib/lib-a/0.0.2"></a>
+## [lib/lib-a/0.0.2](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/lib/lib-a/0.0.2) (2023-5-1)
+
+### Other
+
+* removed x-64 from scripts ([6e075be](https://www.github.com/TomPallister/test-monorepo-dependency/commit/6e075be0e9a1f74f61f4c35395e1136de2219302))
+
 <a name="lib/lib-a/0.0.1"></a>
 ## [lib/lib-a/0.0.1](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/lib/lib-a/0.0.1) (2021-7-13)
 

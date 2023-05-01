@@ -1,5 +1,12 @@
 
 
+<a name="web/0.0.40"></a>
+## [web/0.0.40](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/web/0.0.40) (2023-5-1)
+
+### Other
+
+* removed x-64 from scripts ([6e075be](https://www.github.com/TomPallister/test-monorepo-dependency/commit/6e075be0e9a1f74f61f4c35395e1136de2219302))
+
 <a name="web/0.0.39"></a>
 ## [web/0.0.39](https://www.github.com/TomPallister/test-monorepo-dependency/releases/tag/web/0.0.39) (2023-4-29)
 
