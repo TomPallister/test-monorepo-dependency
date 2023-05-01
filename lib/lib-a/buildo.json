@@ -1,11 +1,11 @@
 {
   "scripts": {
-    "build:win-x64": "../../scripts/build.ps1",
-    "version:win-x64": "../../scripts/version.ps1",
-    "build:linux-x64": "../../scripts/build.sh",
-    "version:linux-x64": "../../scripts/version.sh",
-    "build:osx-x64": "../../scripts/build.sh",
-    "version:osx-x64": "../../scripts/version.sh"
+    "build:win": "../../scripts/build.ps1",
+    "version:win": "../../scripts/version.ps1",
+    "build:linux": "../../scripts/build.sh",
+    "version:linux": "../../scripts/version.sh",
+    "build:osx": "../../scripts/build.sh",
+    "version:osx": "../../scripts/version.sh"
   },
   "dependencies": []
 }

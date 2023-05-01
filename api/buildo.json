@@ -1,11 +1,11 @@
 {
   "scripts": {
-    "build:win-x64": "../scripts/build.ps1",
-    "publish:win-x64": "../scripts/publish.ps1",
-    "build:linux-x64": "../scripts/build.sh",
-    "publish:linux-x64": "../scripts/publish.sh",
-    "build:osx-x64": "../scripts/build.sh",
-    "publish:osx-x64": "../scripts/publish.sh"
+    "build:win": "../scripts/build.ps1",
+    "publish:win": "../scripts/publish.ps1",
+    "build:linux": "../scripts/build.sh",
+    "publish:linux": "../scripts/publish.sh",
+    "build:osx": "../scripts/build.sh",
+    "publish:osx": "../scripts/publish.sh"
   },
   "dependencies": ["lib/lib-a", "lib/lib-b"]
 }
